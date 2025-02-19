@@ -1,0 +1,32 @@
+_repo: Bird-studies-with-a-camera-b-with-introductory-chapters-on-the-outfit-and-methods-of-the-bird__75287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chapman, Frank M. (Frank Michler)
+    alias: Chapman, Frank Michler
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '35445'
+    url: http://www.gutenberg.org/2009/agents/35445
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Chapman_(ornithologist)
+description: ''
+gutenberg_issued: '2025-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75287'
+language: en
+pgterms:marc904: https://archive.org/details/birdstudieswithc0000chap
+pgterms:marc905: 20231114115925chapman
+pgterms:marc906: '1900'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bD. Appleton and company, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bird studies with a camera : $b with introductory chapters on the outfit and
+  methods of the bird photographer'
+url: http://www.gutenberg.org/ebooks/75287
